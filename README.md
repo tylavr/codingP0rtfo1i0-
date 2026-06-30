@@ -8,7 +8,7 @@ Description: This automation code is designed to improve the speed of a security
 Technologies used: Excel VBA, Regex
 
 # Macro for Security Audit by Security Operations Team
-Description: This automation code is designed to improve the speed of a security audit by an security operations team in a: 
+Description: This automation code is designed to improve the speed of a security audit by a security operations team in a: 
 1) Windows Update (WUA) API Vulnerability Scan
 2) Local Administrator Access Control Review
 3) Anti-Malware & Firewall Infrastructure Assessment
