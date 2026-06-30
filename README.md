@@ -5,7 +5,7 @@ Description: This automation code is designed to improve the speed of a security
 1) auditing the Domain Admins group and adding/removing/testing for native hardware multi-factor authentication (MFA) configuration
 2) implementing policy shift and safety rules to block the background change request, for suspicious accounts not delegated with Active Directory permissions
 
-Technologies used: Excel VBA, Regex
+Technologies used: Powershell, Excel VBA, Regex
 
 # Macro for Security Audit by Security Operations Team
 Description: This automation code is designed to improve the speed of a security audit by a security operations team in a: 
@@ -14,7 +14,7 @@ Description: This automation code is designed to improve the speed of a security
 3) Anti-Malware & Firewall Infrastructure Assessment
 4) Detection and Evidence Tracking
 
-Technologies used: Excel VBA, Regex
+Technologies used: Powershell, Excel VBA, Regex
 
 # Macro 3
 Description: This code is a simple user interface for completing daily tasks in a company team
