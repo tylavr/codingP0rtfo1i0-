@@ -1,4 +1,4 @@
-# codingP0rtfo1i0- This portfolio displays some of my personal projects for safeguarding an enterprise and people's data security. I also work in microsoft, excel and canvas automation and building safe architecture. You are welcome to test the code and try it out for yourself!
+# codingP0rtfo1i0- This portfolio includes some of my personal projects for safeguarding an enterprise and people's data security. I also work in microsoft, excel and canvas automation and building safe architecture. You're welcome to test the code and try it out for yourself!
 
 # Macro for Managing the Active Directory and Identities (SOC)
 Description: This automation code is designed to improve the speed of a security operations team in Managing the Active Directory and Identities including:
