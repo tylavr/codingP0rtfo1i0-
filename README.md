@@ -18,22 +18,27 @@ Technologies used: Excel VBA, Regex
 
 # Macro 3
 Description: This code is a simple user interface for completing daily tasks in a company team
+
 Technologies used: Excel VBA
 
 # Macro 4
 Description: This code is a children's educational game with a daily calendar
+
 Technologies used: Excel VBA
 
 # Macro 5
 Description: This code was a visual for my assessment of the environmental and socioeconomic costs of fracturing
+
 Technologies used: Excel VBA
 
 # Microsoft Application for an Educational Game
 Description: This code is another user interface with a chatbox and two-player educational game
+
 Technologies used: Azure, Canvas
 
 # Microsoft Application for Enterprise Cybersecurity
 Description: This code is also designed to provide an interface for managing the different tasks of a security team
+
 Technologies used: Azure, Power Apps, Azure Databases, Azure Cosmos, SQL
 
 # ESG reporting reflection
