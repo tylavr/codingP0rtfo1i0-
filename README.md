@@ -1,6 +1,6 @@
 # codingP0rtfo1i0- This portfolio displays some of my personal projects for safeguarding an enterprise and people's data security. I also work in microsoft, excel and canvas automation and building safe architecture. You are welcome to test the code and try it out for yourself!
 
-# Macro for Managing the Active Directory and Identities by Security Operations Team
+# Macro for Managing the Active Directory and Identities (SOC)
 Description: This automation code is designed to improve the speed of a security operations team in Managing the Active Directory and Identities 
 1) first audits the Domain Admins group and adding/removing/testing for native hardware multi-factor authentication (MFA) configuration
 2) implementing policy shift and safety rules to block the background change request, for on suspicious accounts not delegated with Active Directory permissions
