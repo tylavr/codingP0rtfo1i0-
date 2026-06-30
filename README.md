@@ -4,6 +4,7 @@
 Description: This automation code is designed to improve the speed of a security operations team in Managing the Active Directory and Identities 
 1) first audits the Domain Admins group and adding/removing/testing for native hardware multi-factor authentication (MFA) configuration
 2) implementing policy shift and safety rules to block the background change request, for on suspicious accounts not delegated with Active Directory permissions
+
 Technologies used: Excel VBA, Regex
 
 # Macro 2
@@ -12,6 +13,7 @@ Description: This automation code is designed to improve the speed of a security
 2) Local Administrator Access Control Review
 3) Anti-Malware & Firewall Infrastructure Assessment
 4) Detection and Evidence Tracking
+
 Technologies used: Excel VBA, Regex
 
 # Macro 3
